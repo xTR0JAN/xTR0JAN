@@ -31,10 +31,8 @@ main :: func(): void {
 }
 ```
 ## Like my Releases? Join Our Public Discord!
-<div display="flex">
-  <img src="https://img.shields.io/discord/875150796843515915?color=darkgrey&label=CLICK%20ME&logo=discord&logoColor=purple&style=for-the-badge" />
-</div>
-<br>   (https://discord.com/invite/kTFEdvJUkJ)
+[<img src="https://img.shields.io/discord/875150796843515915?color=darkgrey&label=CLICK%20ME&logo=discord&logoColor=purple&style=for-the-badge">](https://discord.com/invite/kTFEdvJUkJ)
+
 
 
 

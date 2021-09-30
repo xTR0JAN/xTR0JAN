@@ -17,7 +17,7 @@ aboutMe :: struct {
 }
 
 main :: func(): void {
-  ethan :: aboutMe = {
+ root:: aboutMe = {
     projects: ["Cracking", "Jacking", "Managing", "Gaming"],
     languages: ["C", "C#", "Java", "Python" "PHP", "HTML"],
     hobbies: ["Coding", "Gaming", "Socializing", "Managing"],

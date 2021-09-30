@@ -30,6 +30,10 @@ main :: func(): void {
   println "Fun Fact: ${root.dc}";
 }
 ```
+## Like my Releases? Join Our Public Discord!
+   (https://discord.com/invite/kTFEdvJUkJ)
+
+
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
@@ -76,6 +80,6 @@ main :: func(): void {
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-# - 💻 (NOTHING! HMU AND LETS WORK ON SOMETHING!)
+# 💻 (NOTHING! HMU AND LETS WORK ON SOMETHING!)
 
-## Show ❤️ By Starring My Repos!
+## Show ❤️ By Starring My Repos and Joining My Discord!

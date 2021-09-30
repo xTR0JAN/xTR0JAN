@@ -80,7 +80,6 @@ main :: func(): void {
 </table>
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+💻 (NOTHING! HMU AND LETS WORK ON SOMETHING!)
 
-# 💻 (NOTHING! HMU AND LETS WORK ON SOMETHING!)
-
-## Show ❤️ By Starring My Repos and Joining Our Discord!
+# Show ❤️ By Starring My Repos and Joining Our Discord!

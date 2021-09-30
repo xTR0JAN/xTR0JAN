@@ -59,12 +59,12 @@ main :: func(): void {
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
+      <td width="35%" align="center">
+        <span>Signal</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/signal.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
+      <td width="35%" align="center">
+        <span>GNU OS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/gnu.svg">
       </td>
       <td width="25%" align="center">

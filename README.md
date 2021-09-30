@@ -1,4 +1,4 @@
-- 👋 [INTRO] - I’m @xTR0JAN, Welcome to my Page.
-- 🌱 [BACKGROUND] - I’m currently learning C#, C++, C+, And PHP
-- 💞️ [NETWORKING] - I’m looking to collaborate on most web/community projects.
-- 📫 [$KIDR0W-COMMUNITY] - https://discord.gg/kTFEdvJUkJ - (My Discord can be found according for anyone curious.)
+-👋 [INTRO] - I’m @xTR0JAN, Welcome to my Page.
+-🌱 [BACKGROUND] - I’m currently learning C#, C++, C+, And PHP
+-💞️ [NETWORKING] - I’m looking to collaborate on most web/community projects.
+-📫 [$KIDR0W-COMMUNITY] - https://discord.gg/kTFEdvJUkJ - (My Discord can be found according for anyone curious.)

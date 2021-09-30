@@ -21,7 +21,7 @@ main :: func(): void {
     projects: ["Cracking", "Jacking", "Managing", "Gaming"],
     languages: ["C", "C#", "Java", "Python" "PHP", "HTML"],
     hobbies: ["Coding", "Gaming", "Socializing", "Managing"],
-    discord: [<img src="https://img.shields.io/discord/875150796843515915?color=9cf&label=discord&logo=discord&logoColor=blue&style=plastic">](https://discord.gg/kTFEdvJUkJ) "
+    discord: [<img src="https://img.shields.io/discord/875150796843515915?color=9cf&label=discord&logo=discord&logoColor=blue&style=plastic">](https://discord.gg/kTFEdvJUkJ)
   };
 
   println "Projects: ${root.projs}";

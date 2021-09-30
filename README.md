@@ -71,7 +71,7 @@ main :: func(): void {
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-      <td width="25%" align"center">
+      <td width="25%" align"right">
         <span>Ubuntu Linux</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg">
       </td>

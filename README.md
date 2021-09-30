@@ -83,4 +83,4 @@ main :: func(): void {
 
 # 💻 (NOTHING! HMU AND LETS WORK ON SOMETHING!)
 
-## Show ❤️ By Starring My Repos and Joining My Discord!
+## Show ❤️ By Starring My Repos and Joining Our Discord!
